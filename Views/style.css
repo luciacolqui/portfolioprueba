@@ -1,0 +1,23 @@
+.navbar {
+    background-color: #6DCCB2;
+    color: #fff;
+    font-weight: bold;
+    
+    
+}
+
+.logotipo {
+    width: 150px;
+    height: auto;
+}
+
+
+.iconos-redes-header{
+    width: 25px;
+}
+
+.iconos{
+    padding-left: 30px;
+    padding-top: 5px;
+    vertical-align: middle;
+}
