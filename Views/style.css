@@ -3,10 +3,9 @@
     color: #fff;
     font-weight: bold;
     
-    
 }
 
-.logotipo {
+.logotipo{
     width: 150px;
     height: auto;
 }
@@ -21,3 +20,46 @@
     padding-top: 5px;
     vertical-align: middle;
 }
+
+.banner{
+    position: relative;
+}
+
+#aboutMe{
+    position: relative;
+    margin-top: 100px;
+    
+}
+
+@media (max-width: 767px){
+    div.image,
+    div.logo,
+    .name,
+    .info,
+    h3,
+    div .fullstack,
+    div .courses{
+        text-align: center;
+    }
+    
+    .logoAr,
+    .logoCo{
+        margin-left: 0;
+    }
+}
+
+img.profile{
+   width: 150px;
+}
+
+.logoAr{
+    background-color: black;
+}
+
+.logoAr,
+.logoCo{
+    width: 150px;
+    height: auto;
+    margin-left: 35px;
+}
+
